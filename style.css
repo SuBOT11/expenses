@@ -122,4 +122,7 @@ ul li span {
     top: 10%;
     left: 10%;
   }
+  ul li span {
+  margin-left: 100px;
+}
 }
